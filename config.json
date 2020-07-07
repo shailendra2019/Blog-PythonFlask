@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/mymlblog",
+    "prod_uri": "mysql+pymysql://root:@localhost/mymlblog",
+    "fb_uri": "https://facebook.com/mymlblog",
+    "tw_uri": "https://twitter.com/mymlblog",
+    "gh_uri": "https://github.com/mymlblog",
+    "blog_name": "Data Science Blog",
+    "tag_line": "Fast pacing your data science learning",
+    "gmail_uname": "shailendras.2007@gmail.com",
+    "gmail_pw": "mypw",
+    "about_text": "Hi this is the about section of the blog on data science",
+    "no_of_posts": 3,
+    "login_img": "login.svg",
+    "admin_user": "shailendras.2007@gmail.com",
+    "admin_pw": "shail123",
+    "upload_location": "C:\\Temp"
+  }
+}
